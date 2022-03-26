@@ -8,4 +8,4 @@ echo '...'
 git add .
 # git commit -a -m "$message"
 git commit -a -m "例行提交"
-git push -u origin master
+git push -u github master
